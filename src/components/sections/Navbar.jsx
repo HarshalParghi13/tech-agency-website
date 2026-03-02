@@ -40,10 +40,10 @@ const Navbar = () => {
           <div className="relative group">
              <div className="absolute -inset-2 bg-gradient-to-r from-cyan-400 to-blue-600 rounded-full blur opacity-20 group-hover:opacity-60 transition duration-500"></div>
              <div className="relative w-10 h-10 rounded-xl bg-slate-900 flex items-center justify-center border border-slate-700/50">
-               <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 font-black text-xl">N</span>
+               <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 font-black text-xl">T</span>
              </div>
           </div>
-          <span className="text-white tracking-tight font-display">Nova<span className="text-cyan-400">Tech</span></span>
+          <span className="text-white tracking-tight font-display">Tech<span className="text-cyan-400">cend</span></span>
         </div>
 
         <div className="hidden md:flex items-center gap-1 bg-slate-900/50 p-1 rounded-full border border-white/5 backdrop-blur-sm">

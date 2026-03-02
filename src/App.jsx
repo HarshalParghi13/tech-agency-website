@@ -14,10 +14,14 @@ import Portfolio from './components/sections/Portfolio';
 import Contact from './components/sections/Contact';
 import Footer from './components/sections/Footer';
 
+import ComingSoon from './components/sections/ComingSoon';
+
 const App = () => {
   return (
     <div className="font-sans antialiased bg-slate-950 text-slate-200 selection:bg-cyan-500 selection:text-white overflow-x-hidden cursor-default">
       <SpotlightEffect />
+      <ComingSoon />
+      {/* 
       <Navbar />
       <Hero />
       <InfiniteMarquee />
@@ -25,7 +29,8 @@ const App = () => {
       <WhyChooseUs />
       <Portfolio />
       <Contact />
-      <Footer />
+      <Footer /> 
+      */}
     </div>
   );
 };
