@@ -20,8 +20,8 @@ const App = () => {
   return (
     <div className="font-sans antialiased bg-slate-950 text-slate-200 selection:bg-cyan-500 selection:text-white overflow-x-hidden cursor-default">
       <SpotlightEffect />
-      <ComingSoon />
-      {/* 
+      {/* <ComingSoon /> */}
+      
       <Navbar />
       <Hero />
       <InfiniteMarquee />
@@ -30,7 +30,7 @@ const App = () => {
       <Portfolio />
       <Contact />
       <Footer /> 
-      */}
+     
     </div>
   );
 };

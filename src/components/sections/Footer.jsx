@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-6">
         <div className="border-b border-white/5 pb-20 mb-20">
            <h2 className="text-[12vw] leading-none font-bold text-transparent bg-clip-text bg-gradient-to-b from-white/20 to-transparent text-center tracking-tighter select-none">
-              NOVATECH
+              TECHCEND
            </h2>
         </div>
 
