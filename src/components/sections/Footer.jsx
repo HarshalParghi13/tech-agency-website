@@ -13,7 +13,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-12 mb-16">
           <div className="col-span-1 md:col-span-2">
             <div className="text-2xl font-bold flex items-center gap-2 mb-6">
-               <span className="text-white tracking-tight">Nova<span className="text-cyan-400">Tech</span></span>
+               <span className="text-white tracking-tight">Tech<span className="text-cyan-400">cend</span></span>
             </div>
             <p className="text-slate-500 max-w-sm mb-8">
               We define the future of digital experiences through innovation, engineering, and design.
@@ -49,7 +49,7 @@ const Footer = () => {
         </div>
 
         <div className="py-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-600">
-          <p>© 2024 NovaTech Agency. All rights reserved.</p>
+          <p>© 2024 Techcend Agency. All rights reserved.</p>
           <p>Designed & Built in Silicon Valley</p>
         </div>
       </div>

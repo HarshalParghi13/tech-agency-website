@@ -6,6 +6,7 @@ import SpotlightEffect from './components/ui/SpotlightEffect';
 
 // Sections
 import Navbar from './components/sections/Navbar';
+import Chatbot from './components/sections/Chatbot'
 import Hero from './components/sections/Hero';
 import InfiniteMarquee from './components/sections/InfiniteMarquee';
 import Services from './components/sections/Services';
@@ -30,7 +31,7 @@ const App = () => {
       <Portfolio />
       <Contact />
       <Footer /> 
-     
+     <Chatbot />
     </div>
   );
 };
